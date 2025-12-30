@@ -456,6 +456,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/1_project/";
+            },},{id: "projects-nft-on-chain-anomaly-detection-nft链上异常检测",
+          title: 'NFT On-chain Anomaly Detection | NFT链上异常检测',
+          description: "Detect sudden price spikes in Ethereum NFT markets",
+          section: "Projects",handler: () => {
+              window.location.href = "/al-folio/projects/2024-11-20-nft-anomaly/";
             },},{id: "projects-",
           title: '',
           description: "",
